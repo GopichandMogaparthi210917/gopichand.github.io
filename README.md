@@ -1,4 +1,4 @@
-# gopichand.github.io
+
 # Gopichand Mogaparthi
 
 #### Technical Skills: Java, JavaScript, Python, AWS, Spring Boot, Microservices, Jenkins, Maven, Kubernetes, Git, GitLab, MySQL, ReactJS, JUnit, Mockito, Selenium, Google Cloud, Azure
