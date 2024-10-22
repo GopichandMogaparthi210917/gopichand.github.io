@@ -4,8 +4,8 @@
 #### Technical Skills: Java, JavaScript, Python, AWS, Spring Boot, Microservices, Jenkins, Maven, Kubernetes, Git, GitLab, MySQL, ReactJS, JUnit, Mockito, Selenium, Google Cloud, Azure
 
 ## Education
-- **M.S., Computer Science** | State University of New York, New Paltz (_May 2025_)
-- **B.Tech., Computer Science and Engineering** | KL University, India (_March 2022_)
+- **M.S., Computer Science**  | State University of New York, New Paltz (_May 2025_)
+- **B.Tech., Computer Science and Engineering**  | KL University, India (_March 2022_)
 
 ## Work Experience
 
@@ -19,14 +19,14 @@
 ## Projects
 
 ### Employee Management System
-[GitHub](https://github.com/your-github/employee-management)
+[GitHub](https://github.com/GopichandMogaparthi210917/Employee_Management_System)
 
 - Developed a backend solution using **Java Spring Boot** and microservices architecture.
 - Reduced feature deployment time from six weeks to two by optimizing CI/CD pipelines using **Jenkins**.
 - Deployed the solution on **AWS** using Docker, cutting deployment time by 40% and setup time by 30%.
 
 ### Library Management System
-[GitHub](https://github.com/your-github/library-management)
+[GitHub](https://github.com/GopichandMogaparthi210917/LibraryManagementSystem)
 
 - Led the development of a web application integrating **Spring Boot** backend with Thymeleaf, deployed on **AWS Cloud**.
 - Enhanced user authentication with **Spring Security**, ensuring seamless access for over 1,000 users while maintaining data integrity and security.
@@ -41,4 +41,3 @@
 ## Additional Skills
 - Sports: Enjoy playing Badminton, Cricket, Volleyball.
 
----
